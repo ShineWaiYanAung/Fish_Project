@@ -1,16 +1,8 @@
-# login_sigin
+  # Pet_Fish_App
 
-A new Flutter project.
+Focusing on the Statemagement (CartPage) without API and Local Storage
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 5 Pages 
+ Users can buy products by clicking shop_icon and it reached into the Cartpage
+ Total Prices are automatically caculated.
+ 
